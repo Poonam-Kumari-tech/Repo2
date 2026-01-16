@@ -4,3 +4,13 @@
     background-color: aqua;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.btn1
+{
+    background-color: chartreuse;
+}
+
+.btn1:hover
+{
+    background-color: rgba(179, 251, 106, 0.644);
+}
